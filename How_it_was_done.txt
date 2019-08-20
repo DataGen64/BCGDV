@@ -1,0 +1,19 @@
+
+Method adopted to complete the task is as follows:
+
+
+STEP 01 —— I used normal text editor to write my python code.
+
+STEP 02 —— Followed the step given in the email to reach the endpoint for GET and POST
+
+STEP 03 —— Compiled and ran python file bcgdv.py in the MacOS terminal using the python3 (3.7.4)
+
+STEP 04 —— Received Response Code [201] for GET
+           Received Response Code [202] for POST
+
+
+End of file 
+
+YOU CAN REVIEW THE CODE bcgdv.py for specific implementation detail and libraries used 
+
+Thanks,
